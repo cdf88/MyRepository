@@ -1,5 +1,6 @@
 <html>
 <head>My First Website</head>
+ <link rel="stylesheet" type="text/css" href="main.css"/>
 <h1>Starting Here...</h1>
 <body>
   <p>This is what smart looks like.</p>
