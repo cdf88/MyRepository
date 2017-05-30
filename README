@@ -1,11 +1,10 @@
-<!DOCTYPE>
 <html>
 <head>My First Website</head>
 <h1>Starting Here...</h1>
 <body>
   <p>This is what smart looks like.</p>
   <img src="http://votertrove.com/wp-content/uploads/2016/09/4375943.jpg">
-  <p>This is what dumb looks like</p>
+  <p>This is what dumb looks like.</p>
   <img src="https://s-media-cache-ak0.pinimg.com/originals/4a/fa/38/4afa38b01cdff3da8658c418d21cf3a6.jpg">
 </body>
 </html>
