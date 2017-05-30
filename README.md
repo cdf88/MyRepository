@@ -1,7 +1,5 @@
 <html>
-<head>
-  <title>My First Website</title>
-</head>
+<head>My First Website</head>
 <h1>Starting Here...</h1>
 <body>
   <p>This is what smart looks like.</p>
