@@ -1,7 +1,8 @@
 <html>
 <head>My First Website</head>
 <body>
-  <p>"This is super hard."</p>
+  <p>This is super hard.</p>
+  <img src="http://votertrove.com/wp-content/uploads/2016/09/4375943.jpg">
 </body>
 </html>
 
