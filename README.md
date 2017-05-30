@@ -1,7 +1,10 @@
 <html>
-<head>My First Website</head>
+<head>
+  <title>My First Website</title>
+</head>
+<h1>Starting Here...</
 <body>
-  <p>This is super hard.</p>
+  <p>This is what smart looks like.</p>
   <img src="http://votertrove.com/wp-content/uploads/2016/09/4375943.jpg">
 </body>
 </html>
