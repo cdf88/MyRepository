@@ -2,7 +2,7 @@
 <head>
   <title>My First Website</title>
 </head>
-<h1>Starting Here...</
+<h1>Starting Here...</h1>
 <body>
   <p>This is what smart looks like.</p>
   <img src="http://votertrove.com/wp-content/uploads/2016/09/4375943.jpg">
